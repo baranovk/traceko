@@ -1,0 +1,1 @@
+https://github.com/dotnet/aspnetcore/blob/main/docs/BuildFromSource.md?ysclid=lav8psrgox265549558#visual-studio-on-windows
